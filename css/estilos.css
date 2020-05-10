@@ -43,11 +43,14 @@ p{
 .efeito{
 }
 #foto{
-   margin-left:100px;
-   /*box-shadow: 3px 3px 10px 5px #000;
-  //-moz-box-shadow: 3px 3px 10px 5px #000;
-  /-webkit-box-shadow: 3px 3px 10px 5px #000;
-  -o-box-shadow: 3px 3px 10px 5px #000;*/
+  position:absolute;
+  width:205px;
+  height:205px;
+  margin-left:100px;
+  box-shadow: 3px 3px 10px 5px #000;
+  -moz-box-shadow: 3px 3px 10px 5px #000;
+  -webkit-box-shadow: 3px 3px 10px 5px #000;
+  -o-box-shadow: 3px 3px 10px 5px #000;
 }
 #menu{
   margin-right:100px;
